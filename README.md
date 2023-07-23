@@ -1,2 +1,2 @@
 # JavaScript
- aqui fica os codigos do javascript
+codigos do javascript
